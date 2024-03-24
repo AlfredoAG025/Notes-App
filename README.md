@@ -1,0 +1,1 @@
+# Notes APP with FastAPI & Angular
